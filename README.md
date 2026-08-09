@@ -36,3 +36,7 @@ Running this code against systems you do not own or without explicit authorizati
 3. Double click Python file to run the programme
 
 **REMINDER: Only run on systems you own, in isolated environments.**
+
+## License
+
+Apache-2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
