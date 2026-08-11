@@ -1,5 +1,10 @@
 # pythoncrash
 
+Live demo: https://hongyime.github.io/pythoncrash/
+
+![Project screenshot](./screenshot.png)
+
+
 Code to use up memory in Python to slow down your device.
 
 <p align="left">
