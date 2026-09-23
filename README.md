@@ -1,5 +1,10 @@
 # pythoncrash
 
+Live demo: https://hongyime.github.io/pythoncrash/
+
+![Project screenshot](./screenshot.png)
+
+
 Code to use up memory in Python to slow down your device.
 
 <p align="left">
@@ -36,3 +41,7 @@ Running this code against systems you do not own or without explicit authorizati
 3. Double click Python file to run the programme
 
 **REMINDER: Only run on systems you own, in isolated environments.**
+
+## License
+
+Apache-2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
